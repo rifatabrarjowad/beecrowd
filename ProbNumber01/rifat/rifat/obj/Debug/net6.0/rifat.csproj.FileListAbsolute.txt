@@ -1,0 +1,15 @@
+D:\try\beecrowd\ProbNumber01\rifat\rifat\bin\Debug\net6.0\rifat.exe
+D:\try\beecrowd\ProbNumber01\rifat\rifat\bin\Debug\net6.0\rifat.deps.json
+D:\try\beecrowd\ProbNumber01\rifat\rifat\bin\Debug\net6.0\rifat.runtimeconfig.json
+D:\try\beecrowd\ProbNumber01\rifat\rifat\bin\Debug\net6.0\rifat.dll
+D:\try\beecrowd\ProbNumber01\rifat\rifat\bin\Debug\net6.0\ref\rifat.dll
+D:\try\beecrowd\ProbNumber01\rifat\rifat\bin\Debug\net6.0\rifat.pdb
+D:\try\beecrowd\ProbNumber01\rifat\rifat\obj\Debug\net6.0\rifat.csproj.AssemblyReference.cache
+D:\try\beecrowd\ProbNumber01\rifat\rifat\obj\Debug\net6.0\rifat.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\beecrowd\ProbNumber01\rifat\rifat\obj\Debug\net6.0\rifat.AssemblyInfoInputs.cache
+D:\try\beecrowd\ProbNumber01\rifat\rifat\obj\Debug\net6.0\rifat.AssemblyInfo.cs
+D:\try\beecrowd\ProbNumber01\rifat\rifat\obj\Debug\net6.0\rifat.csproj.CoreCompileInputs.cache
+D:\try\beecrowd\ProbNumber01\rifat\rifat\obj\Debug\net6.0\rifat.dll
+D:\try\beecrowd\ProbNumber01\rifat\rifat\obj\Debug\net6.0\ref\rifat.dll
+D:\try\beecrowd\ProbNumber01\rifat\rifat\obj\Debug\net6.0\rifat.pdb
+D:\try\beecrowd\ProbNumber01\rifat\rifat\obj\Debug\net6.0\rifat.genruntimeconfig.cache

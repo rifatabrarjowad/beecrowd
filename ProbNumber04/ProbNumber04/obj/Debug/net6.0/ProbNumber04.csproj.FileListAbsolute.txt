@@ -1,0 +1,15 @@
+D:\try\beecrowd\ProbNumber04\ProbNumber04\obj\Debug\net6.0\ProbNumber04.csproj.AssemblyReference.cache
+D:\try\beecrowd\ProbNumber04\ProbNumber04\obj\Debug\net6.0\ProbNumber04.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\beecrowd\ProbNumber04\ProbNumber04\obj\Debug\net6.0\ProbNumber04.AssemblyInfoInputs.cache
+D:\try\beecrowd\ProbNumber04\ProbNumber04\obj\Debug\net6.0\ProbNumber04.AssemblyInfo.cs
+D:\try\beecrowd\ProbNumber04\ProbNumber04\obj\Debug\net6.0\ProbNumber04.csproj.CoreCompileInputs.cache
+D:\try\beecrowd\ProbNumber04\ProbNumber04\bin\Debug\net6.0\ProbNumber04.exe
+D:\try\beecrowd\ProbNumber04\ProbNumber04\bin\Debug\net6.0\ProbNumber04.deps.json
+D:\try\beecrowd\ProbNumber04\ProbNumber04\bin\Debug\net6.0\ProbNumber04.runtimeconfig.json
+D:\try\beecrowd\ProbNumber04\ProbNumber04\bin\Debug\net6.0\ProbNumber04.dll
+D:\try\beecrowd\ProbNumber04\ProbNumber04\bin\Debug\net6.0\ref\ProbNumber04.dll
+D:\try\beecrowd\ProbNumber04\ProbNumber04\bin\Debug\net6.0\ProbNumber04.pdb
+D:\try\beecrowd\ProbNumber04\ProbNumber04\obj\Debug\net6.0\ProbNumber04.dll
+D:\try\beecrowd\ProbNumber04\ProbNumber04\obj\Debug\net6.0\ref\ProbNumber04.dll
+D:\try\beecrowd\ProbNumber04\ProbNumber04\obj\Debug\net6.0\ProbNumber04.pdb
+D:\try\beecrowd\ProbNumber04\ProbNumber04\obj\Debug\net6.0\ProbNumber04.genruntimeconfig.cache

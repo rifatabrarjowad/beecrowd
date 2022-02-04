@@ -1,0 +1,15 @@
+D:\try\beecrowd\ProbNumber03\ProbNumber03\bin\Debug\net6.0\ProbNumber03.exe
+D:\try\beecrowd\ProbNumber03\ProbNumber03\bin\Debug\net6.0\ProbNumber03.deps.json
+D:\try\beecrowd\ProbNumber03\ProbNumber03\bin\Debug\net6.0\ProbNumber03.runtimeconfig.json
+D:\try\beecrowd\ProbNumber03\ProbNumber03\bin\Debug\net6.0\ProbNumber03.dll
+D:\try\beecrowd\ProbNumber03\ProbNumber03\bin\Debug\net6.0\ref\ProbNumber03.dll
+D:\try\beecrowd\ProbNumber03\ProbNumber03\bin\Debug\net6.0\ProbNumber03.pdb
+D:\try\beecrowd\ProbNumber03\ProbNumber03\obj\Debug\net6.0\ProbNumber03.csproj.AssemblyReference.cache
+D:\try\beecrowd\ProbNumber03\ProbNumber03\obj\Debug\net6.0\ProbNumber03.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\beecrowd\ProbNumber03\ProbNumber03\obj\Debug\net6.0\ProbNumber03.AssemblyInfoInputs.cache
+D:\try\beecrowd\ProbNumber03\ProbNumber03\obj\Debug\net6.0\ProbNumber03.AssemblyInfo.cs
+D:\try\beecrowd\ProbNumber03\ProbNumber03\obj\Debug\net6.0\ProbNumber03.csproj.CoreCompileInputs.cache
+D:\try\beecrowd\ProbNumber03\ProbNumber03\obj\Debug\net6.0\ProbNumber03.dll
+D:\try\beecrowd\ProbNumber03\ProbNumber03\obj\Debug\net6.0\ref\ProbNumber03.dll
+D:\try\beecrowd\ProbNumber03\ProbNumber03\obj\Debug\net6.0\ProbNumber03.pdb
+D:\try\beecrowd\ProbNumber03\ProbNumber03\obj\Debug\net6.0\ProbNumber03.genruntimeconfig.cache
